@@ -48,7 +48,15 @@ Then change your password and go back to the procurement management by clicking 
 > ![Simple capture](wikimage/esay_s2.PNG)
 
 So for exemple you buy 30 box of cookies ParleG you just have to fill the form as follow and click on ajouter :
-> ![Simple capture](stock update.PNG)
+> ![Simple capture](https://github.com//PX374/Easy-My-Stock/blob/main/Nouvel%20Achat.PNG?raw=true)
 
+Your stock is automatically updated in the purchase window as well as the Mon Stocks window
+> ![Simple capture](stock%20update.PNG)
 
+You can now pass to the checkout windows and archieving sells
+> ![Simple capture](facture.PNG)
+> As you see you can automaticly add customer information and those data would be archieved and consultable in the facture windows
+> ![Simple capture](facture2.PNG)
 
+You also view all transaction history sorted by time in the Mes Ventes windows
+> ![Simple capture](Transaction.PNG)
