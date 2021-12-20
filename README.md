@@ -32,3 +32,14 @@ Now locate the Easy My Stocks Pro.exe file and run it ( no administrator right r
   
 You get prompted that the server is runing on http://localhost:6027 . Open the link in your browser the web page lunch on procurement management page and ask you about administrator password for logging in the default password is : $*12Lm!D==<Sddd@fjk!:
  > ![Simple capture](wikimage/esay_s1.PNG)
+
+Click on parametre for entering your entreprise information and reseting your password 
+> ![Simple capture](wikimage/esay_s7.PNG)
+> Social reason
+> Addresse
+> Telephone
+> RCCM
+> IFU
+> Imposition Regime
+> Geographique addresse
+
