@@ -60,3 +60,11 @@ You can now pass to the checkout windows and archieving sells
 
 You also view all transaction history sorted by time in the Mes Ventes windows
 > ![Simple capture](Transaction.PNG)
+
+## Buy Me A Coffe
+Perfect Money : U289663800
+BTC : bc1qxm4e7fr0w9vv73qn4lmnxp4u5ekgndxx33trhk
+
+## Contact info :
+email : prof.alex.wolf@gmail.com 
+whatsapp : https://wa.me/+22672587871
