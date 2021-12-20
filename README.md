@@ -24,5 +24,11 @@ so let talk about instalation :
 
 First : Download the Easy My Stocks.zip file at the following addresse : https://sourceforge.net/projects/easy-my-stock/
   After the dowload finish unzip it in the folder you wich to intall it you should get something like that :
-  > ![Simple capture](M1.PNG)
+  > ![Simple capture](wiki_1.PNG)
+
+Now locate the Easy My Stocks Pro.exe file and run it ( no administrator right requiered )
+  Execute by double clicking on it a server log console would open showing you about interaction 
+  > ![Simple capture](wiki_2.PNG)
   
+You get prompted that the server is runing on http://localhost:6027 . Open the link in your browser the web page lunch on procurement management page and ask you about administrator password for logging in the default password is : $*12Lm!D==<Sddd@fjk!:
+ > ![Simple capture](wikimage/esay_s1.PNG)
