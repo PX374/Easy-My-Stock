@@ -1,0 +1,2 @@
+# Easy-My-Stock
+You were many asking for a stock management system so we( Global Analysis Tech ) decide to build easy my stock a beauty-full management system helping you storing information about your currents stocks of products, your sells.  Archiving your news acquisition of the product. It checkout the management system permits facture generation and could be served in your enterprise network.  Hope you enjoy this tool...  Features stocks management system facture generation checkout with automatic stock retranching Sells data archeiving
