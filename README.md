@@ -43,3 +43,12 @@ Click on parametre for entering your entreprise information and reseting your pa
 > Imposition Regime
 > Geographique addresse
 
+Entering data and click on enregistrer
+Then change your password and go back to the procurement management by clicking on Achats and start registering your products acquition
+> ![Simple capture](wikimage/esay_s2.PNG)
+
+So for exemple you buy 30 box of cookies ParleG you just have to fill the form as follow and click on ajouter :
+> ![Simple capture](wikimage/esay_s2.PNG)
+
+
+
